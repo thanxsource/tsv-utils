@@ -1,9 +1,0 @@
-{
-    "name": "common",
-    "description": "Routines used by applications in eBay's TSV Utilities project.",
-    "homepage": "https://github.com/eBay/tsv-utils",
-    "authors": ["Jon Degenhardt"],
-    "copyright": "Copyright (c) 2015-2021, eBay Inc.",
-    "license": "BSL-1.0",
-    "targetType": "sourceLibrary"
-}
